@@ -4,6 +4,10 @@
 	padding: 0;
 }
 
+* {
+	font-family: "Cinzel", serif;
+}
+
 
 .navbar {
 	font-family: "Cinzel", serif;

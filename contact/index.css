@@ -5,6 +5,11 @@
 }
 
 
+* {
+	font-family: "Cinzel", serif;
+}
+
+
 .navbar {
 	font-family: "Cinzel", serif;
 	background-color: #e3f2fd;
