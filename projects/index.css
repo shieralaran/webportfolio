@@ -1,0 +1,15 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+
+.navbar {
+	font-family: "Cinzel", serif;
+	background-color: #e3f2fd;
+}
+
+#headerprojects {
+	background-color: #e8e9eb;
+}
